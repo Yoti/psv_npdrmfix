@@ -1,5 +1,5 @@
 ﻿# psv_npdrmfix
-PSV NoNpDrm Fixer
+PSV NoPsmDrm Fixer
 
 
 ### Русский
