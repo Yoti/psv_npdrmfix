@@ -1,11 +1,11 @@
-# psv_npdrmfix
+п»ї# psv_npdrmfix
 PSV NoNpDrm Fixer
 
 
-### Русский
-**Алгоритмы и код:** [Yoti](https://github.com/Yoti)
+### Р СѓСЃСЃРєРёР№
+**РђР»РіРѕСЂРёС‚РјС‹ Рё РєРѕРґ:** [Yoti](https://github.com/Yoti)
 
-**Графика оформления:** [1upus](https://github.com/1upus)
+**Р“СЂР°С„РёРєР° РѕС„РѕСЂРјР»РµРЅРёСЏ:** [1upus](https://github.com/1upus)
 
 
 ### English
