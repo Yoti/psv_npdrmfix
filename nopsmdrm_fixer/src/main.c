@@ -9,9 +9,9 @@
 
 void exit(char*text, int sec)
 {
-		printf(" %s\n\nAuto-exit in %i seconds...\n", text, sec);
-		sceKernelDelayThread(sec*000000);
-		sceKernelExitProcess(0);
+	printf(" %s\n\nAuto-exit in %i seconds...\n", text, sec);
+	sceKernelDelayThread(sec*1000000);
+	sceKernelExitProcess(0);
 }
 
 void run()
