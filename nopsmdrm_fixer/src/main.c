@@ -16,8 +16,11 @@ void exit(char*text, int sec)
 
 void run()
 {
+	int np = 1;
 	char key_buf[8];
 	uint64_t uni_key = 0xefcdab8967452301LL;
+
+	sceRegMgrSetKeyInt("/CONFIG/NP/", "enable_np", np);
 
 	memset(key_buf, 0, sizeof(key_buf));
 	memcpy(&key_buf[0], &uni_key, sizeof(key_buf));
